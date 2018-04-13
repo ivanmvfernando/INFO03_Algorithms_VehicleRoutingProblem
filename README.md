@@ -1,1 +1,1 @@
-# INFO03_Algorithms_VehicleRoutingProblem
+# INFO_03_Algorithms_Vehicle_Routing_Problem
